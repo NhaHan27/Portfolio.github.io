@@ -1,2 +1,1 @@
-# ayushn.netlify.app
-Personal Portfolio
+https://nhahan27.github.io/Portfolio.github.io/
